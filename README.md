@@ -1,6 +1,4 @@
 # hello-world
-My intro to GitHub
-
 Hello, my name is Anelka Lopez.
 
 I am an Information Technology major, I am currently in my sophomore year.
